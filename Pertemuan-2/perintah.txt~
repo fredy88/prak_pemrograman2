@@ -1,0 +1,2 @@
+mvn archetype:create -DgroupId=belajar.autotes -DartifactId=belajar-autotes
+mvn clean package

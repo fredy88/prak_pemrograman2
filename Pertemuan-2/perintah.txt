@@ -1,0 +1,3 @@
+
+cara compile -->  mvn clean package
+cara run/menjalankan --> mvn exec:java -Dexec.mainClass=belajar.autotes.App
