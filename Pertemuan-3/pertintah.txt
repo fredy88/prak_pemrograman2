@@ -1,0 +1,15 @@
+akhir praktikum
+
+cukup berisi 
+- source code
+- penjelasan
+- screenshoot
+
+tnx
+
+use p2;
+create table produk(
+	id int auto increment primary key,
+	nama varchar(255),
+	harga decimal(10,2)
+);

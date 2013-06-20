@@ -1,0 +1,10 @@
+tugas
+
+buat tabel terserah dengan syarat tipe data berikut harus ada
+- int 
+- decimal
+- date
+- varchar
+- text
+
+buat program untuk insert,update,delete
